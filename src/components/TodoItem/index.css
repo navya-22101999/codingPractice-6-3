@@ -1,0 +1,23 @@
+/* Write your CSS here */
+button {
+  height: 4vh;
+  width: 100px;
+  border-radius: 10px;
+  border: solid 2px #ff0b37;
+  background-color: white;
+  color: #ff0b37;
+}
+.cont {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+}
+li {
+  list-style: none;
+}
+p {
+  color: #000000;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-style: oblique;
+}
